@@ -79,3 +79,6 @@ Link: https://www.figma.com/proto/bPVzwysT1h917FtW4CzMdy/Mockup?node-id=24%3A347
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
+ No hemos tenido ningun problema, a lo mejor la complicación del uso de Figma. 
+ Hubo un buen trabajo en equipo y reparto de tareas para ser mas eficiente.
+ 
