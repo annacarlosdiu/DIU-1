@@ -16,6 +16,8 @@ presupuesto más limitado para su estancia.
 
 ## Moodboard (diseño visual + logotipo)   
 
+Link: https://app.milanote.com/1NQvKF1KRiDn3W?p=PDt1t6wqdmq
+
 ![export_canvas_moodboard-220517_0707](https://user-images.githubusercontent.com/101646040/168750250-54dfe91e-5560-490c-8e3b-ab33e91575c8.png)
 
 ## Landing Page
@@ -55,6 +57,9 @@ Lazy Registration: El usuario podrá navegar por todas las páginas sin necesida
 
 
 ## Mockup: LAYOUT HI-FI
+
+Link: https://www.figma.com/proto/bPVzwysT1h917FtW4CzMdy/Mockup?node-id=24%3A347&scaling=scale-down&page-id=0%3A1
+
 ![home](https://user-images.githubusercontent.com/101646040/168750299-56bb55e1-6a0a-4fcf-8421-f8306ceb934e.png)
 
 ![registro](https://user-images.githubusercontent.com/101646040/168750317-cb092166-a9bf-45c8-8859-6e41aabedc63.png)
