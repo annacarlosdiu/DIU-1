@@ -1,5 +1,19 @@
 # DIU - Practica 3, entregables
 
+## Nuestra propuesta/propósito:
+
+Queremos ofrecerle mas feedback al cliente y un
+alojamiento mas dinamico (precios) para lo que busca cada persona.
+
+1º Que los clientes del hostel no sólo puedan tener
+acceso a un alojamiento compartido si no que además también
+puedan ver el perfil de la gente con la que compartirán
+habitación
+
+2º Ofrecer un plan de pensiones económico
+para poder atraer a los clientes que tienen un
+presupuesto más limitado para su estancia.
+
 ## Moodboard (diseño visual + logotipo)   
 
 ![export_canvas_moodboard-220517_0707](https://user-images.githubusercontent.com/101646040/168750250-54dfe91e-5560-490c-8e3b-ab33e91575c8.png)
@@ -17,6 +31,11 @@
 	5: CTA
 
 ## Patrones y Guidelines:
+
+Hemos utilizado los patrones presentados en: http://ui-patterns.com/ porque es una página
+completa en la que puedes encontrar muchos patrones bien explicados, con ejemplos y
+sobre todo se entiende a la perfección. Además de que está muy bien estructurado y no
+tienes que invertir mucho tiempo en encontrar algo acorde a la idea que tienes en la cabeza.
 
 Cards: Se pondrán distintos comentarios. Esto tendrá forma de tarjeta para que sea más vistoso para el usuario.
 
