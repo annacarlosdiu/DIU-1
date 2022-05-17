@@ -5,6 +5,16 @@
 ![export_canvas_moodboard-220517_0707](https://user-images.githubusercontent.com/101646040/168750250-54dfe91e-5560-490c-8e3b-ab33e91575c8.png)
 
 ## Landing Page
+![LadingPage2](https://user-images.githubusercontent.com/101646040/168755009-aa49e166-ac0e-469b-b718-bed9178ce136.jpg)
+
+ 1A: El título
+	1B: Subtítulo
+	1C: Declaración de refuerzo
+	1D: Argumento de cierre
+	2: Elemento gráfico (imagen)
+	3: Beneficios de la oferta
+	4: Refuerzo emocional (propuesta deseable).
+	5: CTA
 
 
 ## Mockup: LAYOUT HI-FI
