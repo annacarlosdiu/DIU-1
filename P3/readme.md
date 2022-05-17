@@ -16,6 +16,24 @@
 	4: Refuerzo emocional (propuesta deseable).
 	5: CTA
 
+## Patrones y Guidelines: LAYOUT HI-FI
+
+Cards: Se pondrán distintos comentarios. Esto tendrá forma de tarjeta para que sea más vistoso para el usuario.
+
+Password Strength Meter: A la hora de registrarse en la password pondremos si la contraseña es débil, aceptable o segura, para que el usuario sepa si debería o no usar dicha contraseña puesta.
+
+Settings: Habrá un apartado de ajustes para que el usuario pueda editar sus datos personales.
+
+Navigation Tabs: Se dispondrá tabs para poder navegar de página en página y visualizar el contenido que corresponde al tab clickeado.
+
+Gallery: Almacenaremos varias fotos para que el usuario pueda ver de una forma diferente, es decir, con distintas perspectivas. Por ejemplo las fotos del menú, de los eventos entre otros.
+
+Calendar Picker: A la hora de reservar o de buscar en qué fechas salé más barato la reserva, se usará un seleccionador de fechas.
+
+Drag and drop: Se usará para que el usuario pueda actualizar su foto de perfil si así lo desea.
+
+Lazy Registration: El usuario podrá navegar por todas las páginas sin necesidad de estar registrado (No podrá reservar sin estar registrado).
+
 
 ## Mockup: LAYOUT HI-FI
 ![home](https://user-images.githubusercontent.com/101646040/168750299-56bb55e1-6a0a-4fcf-8421-f8306ceb934e.png)
