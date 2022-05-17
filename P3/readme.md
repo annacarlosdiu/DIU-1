@@ -16,7 +16,7 @@
 	4: Refuerzo emocional (propuesta deseable).
 	5: CTA
 
-## Patrones y Guidelines: LAYOUT HI-FI
+## Patrones y Guidelines:
 
 Cards: Se pondrán distintos comentarios. Esto tendrá forma de tarjeta para que sea más vistoso para el usuario.
 
