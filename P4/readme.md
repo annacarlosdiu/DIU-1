@@ -11,10 +11,10 @@ Proyecto asignado: DIU2.02 LosMejoresDeDiu https://github.com/joseptnl/DIU
 
 | Usuario | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Perfil cubierto | Test A/B | SUS score |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |					
-| Noelia | M/23	| Estudiante máster | Avanzado | Mac |  | A | 95 |
-| Martín | H/27	| Dependiente | Medio | Windows |  | A | 85 |
-| Paula | M/25	| Secretaría | Bajo | Iphone |  | B | 82.5 |
-| Juanjo | H/22	| Estudiante | Avanzado | Samsung |  | B | 100 |
+| Noelia | M/23	| Estudiante máster | Avanzado | Mac | 5-1-4 | A | 95 |
+| Martín | H/27	| Dependiente | Medio | Windows | 2-4-6 | A | 85 |
+| Paula | M/25	| Secretaría | Bajo | Iphone | 3-2-2 | B | 82.5 |
+| Juanjo | H/22	| Estudiante | Avanzado | Samsung | 3-3-3 | B | 100 |
 
 * Cuestonario SUS
 
