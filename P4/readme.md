@@ -22,18 +22,10 @@ User testing
 
 | Usuario | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Perfil cubierto | Test A/B | SUS score |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |					
-| Noelia | M/23	| Estudiante máster | Avanzado | Mac |  | A | 95 | 
-
-
-
-
-
-Martín	H/27	Dependiente	Medio	Windows		A	85
-Paula	M/25	Secretaría	Bajo	Iphone		B	82.5
-Juanjo	H/22	Estudiante	Avanzado	Samsung		B	100
-
-
-
+| Noelia | M/23	| Estudiante máster | Avanzado | Mac |  | A | 95 |
+| Martín | H/27	| Dependiente | Medio | Windows |  | A | 85 |
+| Paula | M/25	| Secretaría | Bajo | Iphone |  | B | 82.5 |
+| Juanjo | H/22	| Estudiante | Avanzado | Samsung |  | B | 100 |
 
 * Tareas realizadas 
 
