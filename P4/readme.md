@@ -16,7 +16,39 @@ Proyecto asignado: DIU2.02 LosMejoresDeDiu https://github.com/joseptnl/DIU
 | Paula | M/25	| Secretaría | Bajo | Iphone |  | B | 82.5 |
 | Juanjo | H/22	| Estudiante | Avanzado | Samsung |  | B | 100 |
 
-* Tareas realizadas 
+* Cuestonario SUS
+
+Noelia 
+
+![image](https://user-images.githubusercontent.com/101646040/172067639-770c9b63-8d21-458f-b2ea-efadcd5c3384.png)
+
+Respuestas enunciados impares: (5+5+5+5+5) = 25 – 5 = 20
+Respuestas enunciados pares: (2+1+1+2+1) = 25 – 7 = 18
+Cáculo SUS: (20+18) = 38 * 2.5 = 95
+
+Martín
+
+![image](https://user-images.githubusercontent.com/101646040/172067665-791b55d2-dded-4dc8-901b-b224d7e11dc5.png)
+
+Respuestas enunciados impares: (3+5+4+4+4) = 20 – 5 = 15
+Respuestas enunciados pares: (1+1+1+1+2) = 25 – 6 = 19
+Cáculo SUS: (15+19) = 34 * 2.5 = 85
+
+Paula
+
+![image](https://user-images.githubusercontent.com/101646040/172067679-6c85ebc9-0ee3-4cf1-8897-94afaedb0333.png)
+
+Respuestas enunciados impares: (5+3+5+3+3) = 19 – 5 = 14
+Respuestas enunciados pares: (1+2+1+1+1) = 25 – 6 = 19
+Cáculo SUS: (14+19) = 33 * 2.5 = 82.5
+
+Juanjo
+
+![image](https://user-images.githubusercontent.com/101646040/172067696-42790a6e-1b73-42a1-a751-9293a3b82171.png)
+
+Respuestas enunciados impares: (5+5+5+4+5) = 24 – 5 = 21
+Respuestas enunciados pares: (2+1+1+1+1) = 25 – 6 = 19
+Cáculo SUS: (21+19) = 40 * 2.5 = 100
 
 
 * Usability Report de Caso B
