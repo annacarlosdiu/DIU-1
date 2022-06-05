@@ -127,3 +127,7 @@ Títulos auto explicativo:
 
 
 * Conclusiones
+
+Tras el desarrollo de esta practica nos hemos dado cuenta de muchas cosas que han hecho nuestros compañeros 
+y de ideas que a nosotros no se nos ocurrieron. Tambien pudimos observar de que su aplicacion es completa y bastante
+visible, no hace frustrar a la gente y es concisa.
