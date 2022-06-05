@@ -7,6 +7,22 @@ Elección y características
 
 * A/B Testing. 
 
+Caso asignado
+
+La aplicación asignada es una aplicación que permite a los usuarios ver las distintas actividades que han sido programadas por el hostel y apuntarse mediante un formulario. También se pueden realizar propuestas de actividades, ver las actividades que ya ha realizado el usuario y dejar valoraciones/comentarios en estas. El Mockup ha sido realizado de forma muy detallada lo cuál ha sido muy conveniente para poder realizar las valoraciones.
+
+Proyecto asignado: DIU2.02 LosMejoresDeDiu https://github.com/joseptnl/DIU
+
+User testing
+
+Usuario	Sexo/Edad	Ocupación	Exp.TIC	Plataforma	Perfil cubierto	Test A/B	SUS score
+Noelia	M/23	Estudiante máster	Avanzado	Mac		A	95
+Martín	H/27	Dependiente	Medio	Windows		A	85
+Paula	M/25	Secretaría	Bajo	Iphone		B	82.5
+Juanjo	H/22	Estudiante	Avanzado	Samsung		B	100
+
+
+
 
 * Tareas realizadas 
 
