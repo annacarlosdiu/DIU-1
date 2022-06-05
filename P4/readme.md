@@ -15,11 +15,6 @@ Proyecto asignado: DIU2.02 LosMejoresDeDiu https://github.com/joseptnl/DIU
 
 User testing
 
-| Primer encabezado | Segundo encabezado |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
-
 | Usuario | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Perfil cubierto | Test A/B | SUS score |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |					
 | Noelia | M/23	| Estudiante máster | Avanzado | Mac |  | A | 95 |
